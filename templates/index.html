@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Smart Pizza Hub</title>
+<style>
+body{
+font-family:Arial;
+background:#111;
+color:white;
+text-align:center;
+padding:40px;
+}
+.container{
+background:#222;
+padding:30px;
+width:400px;
+margin:auto;
+border-radius:15px;
+}
+button{
+padding:10px;
+background:orange;
+border:none;
+cursor:pointer;
+margin-top:20px;
+}
+select{
+padding:10px;
+width:200px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+<h1>🍕 Smart Pizza Hub</h1>
+<h3>Powered by AWS + Docker + Kubernetes</h3>
+
+<form action="/order" method="POST">
+
+<select name="pizza">
+<option>Paneer Tikka</option>
+<option>Farmhouse</option>
+<option>Margherita</option>
+<option>Mexican Green Wave</option>
+<option>Cheese Burst</option>
+</select>
+
+<br>
+
+<button type="submit">Order Pizza</button>
+
+</form>
+</div>
+
+</body>
+</html>
