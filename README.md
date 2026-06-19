@@ -102,9 +102,6 @@ Self Healing Demonstration
 
 ![Architecture](screenshots/architecutre.jpeg)
 
-### Application Running
-
-![App](screenshots/app-running.png)
 
 ### Docker Build
 
