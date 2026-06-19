@@ -113,7 +113,6 @@ Self Healing Demonstration
 ### Self Healing Demo
 
 ![SelfHealing](screenshots/self-healing.png)
-
 ---
 
 ## Commands Used
