@@ -100,11 +100,19 @@ Self Healing Demonstration
 
 ### Architecture Diagram
 
-![Architecture](screenshots/architecture.jpeg)
+![Architecture](screenshots/architecutre.jpeg)
 
 ### Application Running
 
 ![App](screenshots/app-running.png)
+
+### Docker Build
+
+![Docker](screenshots/docker-build.png)
+
+### AWS EKS Cluster Running
+
+![EKS](screenshots/eks-cluster.png)
 
 ### Kubernetes Pods Running
 
