@@ -98,6 +98,10 @@ Self Healing Demonstration
 
 ## Screenshots
 
+### Architecture Diagram
+
+![Architecture](screenshots/architecture.jpeg)
+
 ### Application Running
 
 ![App](screenshots/app-running.png)
@@ -113,7 +117,6 @@ Self Healing Demonstration
 ### Self Healing Demo
 
 ![SelfHealing](screenshots/self-healing-demo.png)
-
 
 ## Commands Used
 
