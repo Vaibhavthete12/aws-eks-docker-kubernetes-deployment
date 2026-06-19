@@ -108,12 +108,12 @@ Self Healing Demonstration
 
 ### Load Balancer Public URL
 
-![LoadBalancer](screenshots/loadbalancer.png)
+![LoadBalancer](screenshots/loadbalancer-url.png)
 
 ### Self Healing Demo
 
-![SelfHealing](screenshots/self-healing.png)
----
+![SelfHealing](screenshots/self-healing-demo.png)
+
 
 ## Commands Used
 
